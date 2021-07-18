@@ -1,0 +1,23 @@
+<svg id="Journal_Entry" data-name="Journal Entry" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 987.76 987.76">
+    <defs>
+        <linearGradient id="linear-gradient" x1="347.2" y1="85.33" x2="669.8" y2="411.22"
+                        gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ff9500" />
+            <stop offset="1" stop-color="#fd5d58" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="564.5" y1="636.44" x2="902.02" y2="977.4"
+                        xlink:href="#linear-gradient" />
+        <linearGradient id="linear-gradient-3" x1="160.79" y1="684.04" x2="403.16" y2="928.88"
+                        xlink:href="#linear-gradient" />
+        <linearGradient id="linear-gradient-4" x1="448.6" y1="754.68" x2="568.4" y2="754.68"
+                        xlink:href="#linear-gradient" />
+    </defs>
+    <circle cx="508.5" cy="248.28" r="229.28" style="fill: url(#linear-gradient)" />
+    <g>
+        <path d="M624.06,942.78H937c0-183.3-115.09-339.71-277-400.93Z" style="fill: url(#linear-gradient-2)" />
+        <path d="M357,541.85C195.09,603.07,80,759.48,80,942.78H389.12Z" style="fill: url(#linear-gradient-3)" />
+    </g>
+    <path d="M463.16,551.22l31.22,39.26L448.73,908a11.8,11.8,0,0,0,2.7,9.44l50.25,56.64a8.89,8.89,0,0,0,13.64,0l50.25-56.64a11.8,11.8,0,0,0,2.7-9.44L522.62,590.48l31.22-39.26c5.88-7.39,1.23-19.13-7.57-19.13H470.73C461.93,532.09,457.28,543.83,463.16,551.22Z"
+          style="fill: url(#linear-gradient-4)" />
+</svg>

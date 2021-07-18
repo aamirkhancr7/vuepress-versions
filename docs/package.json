@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-versions",
+  "description": "",
+  "authors": {
+    "name": "Aamir Khan",
+    "email": "aamirkhan@beezlabs.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "1.5.4",
+    "@vuepress/plugin-medium-zoom": "1.5.4",
+    "fs-extra": "9.0.1",
+    "vuepress": "1.5.4",
+    "vuepress-theme-default-prefers-color-scheme": "1.0.9"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "scripts": {
+    "start": "vuepress dev .",
+    "build": "vuepress build .",
+    "prettify": "prettier --write --tab-width=2 **/**/*.md"
+  }
+}
