@@ -11,7 +11,7 @@ features:
     details: Second description.
   - title: ⚡ Third Title
     details: Third description.
-footer: Made with ❤
+footer: Made with ❤ Aamir
 ---
 
 ### Extra Content title

@@ -41,7 +41,7 @@ module.exports = {
             },
             {
                 text: 'Changelog',
-                link: 'https://github.com/nuwave/lighthouse/blob/master/CHANGELOG.md'
+                link: 'https://testing.com'
             },
         ],
         sidebar: versioning.sidebars
